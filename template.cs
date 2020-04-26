@@ -8,8 +8,8 @@ namespace Template
     {
         protected override void OnLoad(EventArgs e)
         {
-            // Console.WriteLine(Width.ToString() + " " + Height.ToString());
-            // ClientSize = new Size(1200, 800);
+            Console.WriteLine(Width.ToString() + " " + Height.ToString());
+            ClientSize = new Size(1200, 800);
             Console.WriteLine(Width.ToString() + " " + Height.ToString());
             Height = 800;
             Width = 1200;
