@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3093DF57-1EF0-4E01-82FF-ACA6176D0806}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="template.cs">
+    <Files>
+      <File FileName="template.cs" Line="11" Column="13" />
+      <File FileName="packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Template" expanded="True">
+            <Node name="Template" expanded="True">
+              <Node name="template.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Template PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/home/nathan/Projects/INFOGR2020Tmpl8 (1)/bin/Debug/INFOGR2019Tmpl8.exe.config
+/home/nathan/Projects/INFOGR2020Tmpl8 (1)/bin/Debug/INFOGR2019Tmpl8.exe
+/home/nathan/Projects/INFOGR2020Tmpl8 (1)/bin/Debug/INFOGR2019Tmpl8.pdb
+/home/nathan/Projects/INFOGR2020Tmpl8 (1)/bin/Debug/OpenTK.dll
+/home/nathan/Projects/INFOGR2020Tmpl8 (1)/bin/Debug/OpenTK.pdb
+/home/nathan/Projects/INFOGR2020Tmpl8 (1)/bin/Debug/OpenTK.xml
+/home/nathan/Projects/INFOGR2020Tmpl8 (1)/obj/Debug/Template.csprojAssemblyReference.cache
+/home/nathan/Projects/INFOGR2020Tmpl8 (1)/obj/Debug/INFOGR2019Tmpl8.exe.config
+/home/nathan/Projects/INFOGR2020Tmpl8 (1)/obj/Debug/Template.csproj.CopyComplete
+/home/nathan/Projects/INFOGR2020Tmpl8 (1)/obj/Debug/INFOGR2019Tmpl8.exe
+/home/nathan/Projects/INFOGR2020Tmpl8 (1)/obj/Debug/INFOGR2019Tmpl8.pdb
